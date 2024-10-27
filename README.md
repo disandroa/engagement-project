@@ -13,6 +13,10 @@ For this project you may extend your story map or your dashboard, as long as you
   - **November 20**: Plan for completion
   - **December 4**: Project presentations
 
+## Instructions
+
+Fork this repository, and add your project code to it. When you are ready to submit your project, refer to the Submission Checklist below.
+
 ## Project Proposal
 
 You proposal doesn't have to be deep. It should:
@@ -27,3 +31,12 @@ Use wireframes to show what your project or your new feature will look like. You
 ## Plan for Completion
 
 Describe what you will need to do to complete your project. This should include a list of tasks that you will need to complete, and a timeline for when you will complete them. I suggest using a tool like GitHub Projects to list out and manage your tasks/issues.
+
+## Submission Checklist
+
+- [ ] Pushed latest code to the `main` branch of your repository
+- [ ] Linted JS and CSS code
+- [ ] Turned on GitHub Pages for the repository and verified that your site works when deployed
+- [ ] Submitted a pull request to the original repository in the class organization
+- [ ] In the PR **title**, included your name at least
+- [ ] In the PR **description**, included a brief description of your topic, and your target audience
