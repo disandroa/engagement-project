@@ -1,42 +1,11 @@
-# User Engagement Project
+# Community Fridge Finder
 
-Your final project for the class will incorporate deeper user engegement. The project should build upon many of the concepts learned throughout the class, incorporate some significant amount of interactivity, and storing and recalling data in a way that multiple users of the application can benefit from. _The focus of this project will be on engagement -- i.e. inviting members of the public to create or add to a dataset in some way._
+One in five children in the US come from food-insecure households [Feeding America](https://www.feedingamerica.org/hunger-in-america#:~:text=More%20than%2047%20million%20people,together%2C%20we%20can%20solve%20it.). Though food insecurity is a multi-faceted problem that requires government involvement, many communities have taken on this problem into their own hands by creating food pantries and free fridges.
 
-For this project you may extend your story map or your dashboard, as long as you have some realistic addition of functionality that allows for user engagement. You may also start a new project.
+Philadelphia has a wide network of free fridges throughout the city. These fridges are maintained by different organizations with each fridge receiving contributions from several kitchens and individual donations, making it complex to find up-to-date information about what kind of food can be found at each fridge, let alone where to find the nearest fridge. 
 
-## Timeline
+People who maintain and cook for these fridges also face the problem of not being able to always know the state of a fridge without someone going to check and not knowing what the community needs and wants for these fridges. It is difficult to get direct feedback from fridge users when people are usually in and out of the fridges.
 
-- This project will take us through the end of the semester on **December 4**, when we will have project presentations.
-- To help you with your timeline, here are some milestones:
-  - **October 30**: Project proposal due
-  - **November 6**: Initial wireframes due
-  - **November 20**: Plan for completion
-  - **December 4**: Project presentations
+The **Community Fridge Finder** app helps us tackle many of the mentioned problems. It is mostly used as a mobile web-app that is geared towards $\color{rgb(255,171,64)}{\textsf{fridge frequenters}}$ and $\color{rgb(255,171,64)}{\textsf{fridge friends}}$. A $\color{rgb(255,171,64)}{\textsf{fridge frequenter}}$ is somebody who seeks out basic information about the whereabouts of fridges and finds food/meals at them, while a $\color{rgb(255,171,64)}{\textsf{fridge friend}}$ is someone who volunteers with the fridges, may want to start volunteering, or is just a friendly neighbor who wants to report a problem with the fridge. The main purpose of the app for these users is to be able to find fridges, get basic information like what kind of food is there, how to start volunteering, contact information, comments from the others, and recent incident reports. 
 
-## Instructions
-
-Fork this repository, and add your project code to it. When you are ready to submit your project, refer to the Submission Checklist below.
-
-## Project Proposal
-
-You proposal doesn't have to be deep. It should:
-1.  Make clear who the user of your project is. This should be more specific that "the general public". Refer to the [18F Method Card on Personas](https://guides.18f.gov/methods/decide/personas/) or the Digtal.gov article on [Improving Customer Experience with Digital Personas](https://digital.gov/2017/06/20/improving-customer-experience-with-digital-personas/).
-2. Describe what you'll be doing in your tool to meet your user's needs.
-3. Describe any datasets that you will be working with, including any data that users will put in.
-
-## Initial Wireframes
-
-Use wireframes to show what your project or your new feature will look like. You can use any tool you like to create these wireframes. 
-
-## Plan for Completion
-
-Describe what you will need to do to complete your project. This should include a list of tasks that you will need to complete, and a timeline for when you will complete them. I suggest using a tool like GitHub Projects to list out and manage your tasks/issues.
-
-## Submission Checklist
-
-- [ ] Pushed latest code to the `main` branch of your repository
-- [ ] Linted JS and CSS code
-- [ ] Turned on GitHub Pages for the repository and verified that your site works when deployed
-- [ ] Submitted a pull request to the original repository in the class organization
-- [ ] In the PR **title**, included your name at least
-- [ ] In the PR **description**, included a brief description of your topic, and your target audience
+The other user for this app will mostly be using this on a laptop, or otherwise bigger screen. The $\color{rgb(0,151,167)}{\textsf{fridge maintenance team}}$'s main goals of this app is to keep fridge information up to date, read, respond to, and resolve incident reports, remove false/irrelevant claims in the comments section, and to download data (from comments and incident reports for their own records). 
